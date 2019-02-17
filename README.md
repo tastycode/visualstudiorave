@@ -5,6 +5,7 @@ which receives the current editor text from VSCode. The intent is to
 create a canvas where code can be mixed with anything available to the
 browser, such as music visualization.
 
+![](https://raw.githubusercontent.com/tastycode/visualstudiorave/master/preview.png)
 
 ## Next steps
 
